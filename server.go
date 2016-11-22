@@ -17,7 +17,7 @@ import (
 	"syscall"
 
 	ss "github.com/shadowsocks-plus/ssplus-core-go/shadowsocks"
-	"github.com/shadowsocks-plus/kcptun-integration/kcptun"
+	"github.com/CDog34/kcptun-integration/kcptun"
 
 	"github.com/shadowsocks-plus/ssplus-server-httpapi/ssphttpapi"
 )
